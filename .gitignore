@@ -1,0 +1,7 @@
+*.txt
+node_modules
+.idea
+*.docx
+*.pdf
+jest.config.ts
+*.test.ts
